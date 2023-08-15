@@ -1,5 +1,0 @@
-{{#user}
-Name: MD. Raisul Islam Rimon
-Skills: HTML, CSS, JS, Next.js, React.js, 
-Email: rimonppip0@gmail.com
-{{/user}}
